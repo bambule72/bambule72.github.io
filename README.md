@@ -28,7 +28,7 @@ Jeder Bezirk verfügt über eine eigene interaktive Mobilkarte mit Zoom, genauer
 | **Bezirk 4** | Klasse 4b | 🟢 Dunkelgrün | **2,62 km** | Berliner Straße, Im Wingert, Im Blümeling, An der Zickelburg | [👉 Bezirk 4 öffnen](bezirk_4.html) |
 | **Bezirk 5** | Klasse 1a | 🔵 Blau | **3,67 km** | Kastanienweg, Birkenweg, Am Weiher, Kardinal-Frings-Straße | [👉 Bezirk 5 öffnen](bezirk_5.html) |
 | **Bezirk 6** | Klasse 2a | 🟣 Violett | **3,32 km** | Menzenberger Straße, Karl-Simrock-Straße, Lichweg, Afelspfad | [👉 Bezirk 6 öffnen](bezirk_6.html) |
-| **Bezirk 7** | Klasse 3b | 🔷 Türkis | **3,10 km** | Linzer Straße (bis HIT-Kreisel), Feilweg, Leybergstraße, Bernhard-Klein-Straße | [👉 Bezirk 7 öffnen](bezirk_7.html) |
+| **Bezirk 7** | Klasse 3b | 🔷 Türkis | **3,10 km** | Linzer Straße (bis HIT-Kreisel), Feilweg, Leybergstraße, Franz-Josef-Schneider-Straße  | [👉 Bezirk 7 öffnen](bezirk_7.html) |
 | **Bezirk 8** | Klasse 1b | 🌸 Pink | **4,64 km** | Floßweg, Rosenweg, Berck-sur-Mer-Straße, Drieschweg, St. Martin-Weg | [👉 Bezirk 8 öffnen](bezirk_8.html) |
 
 **Gesamtlaufstrecke aller 8 Schulbezirke:** **30,59 km**
